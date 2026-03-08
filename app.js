@@ -10,3 +10,9 @@ if (time >= 12 && isAfternoon) {
  // Ternary operator example
 const timeOfDay = isAfternoon === true ? 'Afternoon' : 'Morning';
 console.log('Time of Day (Ternary)', timeOfDay);
+
+// Function practice
+function greetStudent(student) {
+    return `Hello, ${student}!`;
+}
+console.log(greetStudent("Lucas"));
