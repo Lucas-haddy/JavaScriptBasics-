@@ -1,4 +1,4 @@
-const time = 12;
+// const time = 12;
 const isAfternoon = true
 /*
 if (time >= 12 && isAfternoon) {
